@@ -1,5 +1,11 @@
 # hello-world
-Hello World repository for Git tutorial
-Dies ist ein Beispiels-Repository für das Git-Tutorial bei https://www.w3schools.com
 
-Dieses Repository ist Schritt für Schritt eingerichtet worden. 
+Sehr geehrte Damen und Herren,
+
+Dies ist das Repository mit dem Namen "Hello World".
+Es ist ein Beispiels-Repository (siehe auch das Git-Tutorial bei https://www.w3schools.com).
+
+Mit freundlichen Grüßen
+Reinhard
+
+
